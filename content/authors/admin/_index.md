@@ -22,6 +22,7 @@ organizations:
 bio: My research interests include networks (in particular wireless networks).
 
 interests:
+- Networks
 - Security 
 - Machine Learning 
 - Data visualization
