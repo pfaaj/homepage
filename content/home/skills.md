@@ -15,21 +15,35 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "dev"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "C++"
+  description = "Main language, used to extend our wireless networking framework, Wips. Mostly C++14."
+
+  [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Mostly for data post/preprocessing and visualization"
+
+  [[feature]]
+  icon = "google"
+  icon_pack = "fab"
+  name = "Golang"
+  description = "Mostly for hobby projects"
+
+
+  [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "Have used in the past, but nowadays have not had the time to program in it."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Data Visualization"
   description = "100%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
 +++
