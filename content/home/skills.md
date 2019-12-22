@@ -43,7 +43,6 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Visualization"
-  description = "100%"  
-  
+ 
 
 +++
