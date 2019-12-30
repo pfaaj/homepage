@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "TU Kaiserslautern"
   company_url = ""
   location = "Germany"
-  date_start = "2016-04-01"
+  date_start = "2016-05-01"
   date_end = ""
   description = """Research Assistant at Networked Systems Group"""
 +++
